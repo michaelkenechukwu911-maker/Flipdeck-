@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.michaelkenechukwu911_maker.twa",
+        "sha256_cert_fingerprints": ["67:A2:9B:6E:DB:43:4F:F4:C5:BE:E4:77:14:86:26:A8:DC:0C:F5:15:7D:71:76:E6:48:6F:99:B8:6E:44:24:42"]
+      }
+    }]
